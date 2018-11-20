@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="main.country">Select country</string>
+  <string name="app_name">My Demo</string>
+  <string name="main.country">Select country</string>
+  <string name="new_key_from_app">Updated from portal</string>
+  <string name="string_needs_translation">Reviewed from Portal</string>
+  <string name="translate_please">Here is your translation from portal</string>
+</resources>
