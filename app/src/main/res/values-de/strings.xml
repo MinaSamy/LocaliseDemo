@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="main.country">Land auswählen</string>
-    <string name="app_name">Meine Demo</string>
-    <string name="main.country">Land auswählen</string>
-    <string name="new_key_from_app">Vom Portal aktualisiert</string>
+  <string name="app_name">Meine Demo</string>
+  <string name="new_key_from_app">Vom Portal aktualisiert</string>
+  <string name="string_needs_translation">Vom Portal aktualisiert</string>
+  <string name="translate_please">Hier ist deine Übersetzung aus dem Portal</string>
 </resources>
